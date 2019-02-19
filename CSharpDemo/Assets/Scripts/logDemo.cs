@@ -16,6 +16,8 @@ public class logDemo : MonoBehaviour {
         //变量
         int hp = 100;
         int sp = 200;
+
+        print("abc");
     }
 	
 	// Update is called once per frame
